@@ -2,7 +2,7 @@
 
 ## Project Overview of Analysis on Election Results using Python:
 
-This project started due to a Colorado Board of Elections needing an automated election audit of a recent local congressional election. Along with the assistance of an employee of theirs, they had given me a list outputs they wanted from the data they provided to produce an audit. Once that had been completed, they requested additional data to complete the audit.
+This project started due to a Colorado Board of Elections needing an automated election audit of a recent local congressional election. Along with the assistance of an employee of theirs, they had given me a list of outputs they wanted from the data they also provided to produce an audit. Once that had been completed, they requested additional data to complete the audit.
 
 
 ## Election Audit
