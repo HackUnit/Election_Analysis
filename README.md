@@ -63,5 +63,6 @@ And, the printed results:
 
 ## Summary of the Audit
 
-By the Colorado Board of Elections request, a script was created to take voter data from 3 counties and tabulate criteria consisting of total number of votes cast, list the candidates with total votes received, that percentage, and finally determine the winner by popular vote.
+By the Colorado Board of Elections request, a script was created to take voter data from 3 counties and tabulate criteria consisting of total number of votes cast, list the candidates with total votes received, that percentage, and finally determine the winner by popular vote. A further request was made to tabulate how many people voted in each county, that percentage, and the county with the largest turnout.
+
 For the election commissions benefit, this code can be reutilized in several other ways, since the code is set up in a way that the variables can be easily changed. Things like audits of specific Districts, or even being scaled up to a federal level is possibility with this code. Adding more conditions is a reality, since the framework is already established. There could even be more discussion on how this script could be used for any election, besides the two given examples.
