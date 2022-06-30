@@ -35,6 +35,8 @@ Utilizing `for` and `if` statements, a single page audit was constructed to disp
     Winner: Diana DeGette
     Winning Vote Count: 272,892
     Winning Percentage: 73.8%
+    
+    This was also all saved to a file and printed to the terminal.
 
 ### Adapting the Code for Additional Tasks
 
@@ -50,7 +52,9 @@ Since the original audit output was a success, the election commission requested
 
     Largest County Turnout: Denver
 
-As with the original analysis, this was printed to the terminal and saved to a separate text file for review:
+As with the original analysis, this was all printed to the terminal and saved as a separate text file for review:
+
+[Link to the Text File Results](analysis/election_results.txt)
 
 ![Image of completed audit output](analysis/completedaudit.png)
 
