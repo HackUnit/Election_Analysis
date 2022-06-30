@@ -1,4 +1,4 @@
-# Election_Analysis
+# election_analysis
 
 ## Project Overview of Analysis on Election Results using Python:
 
