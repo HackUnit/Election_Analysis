@@ -56,6 +56,8 @@ As with the original analysis, this was all printed to the terminal and saved as
 
 [Link to the Text File Results](analysis/election_results.txt)
 
+And, the printed results:
+
 ![Image of completed audit output](analysis/completedaudit.png)
 
 
