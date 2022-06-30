@@ -2,7 +2,7 @@
 
 ## Project Overview of Analysis on Election Results using Python:
 
-The project started due to a Colorado Board of Elections needing an automated election audit of a recent local congressional election. Along with the assistance of an employee of theirs, they had given me a list outputs they wanted from the data they provided to produce an audit. Once that had been completed, they requested additional data to complete the audit.
+This project started due to a Colorado Board of Elections needing an automated election audit of a recent local congressional election. Along with the assistance of an employee of theirs, they had given me a list outputs they wanted from the data they provided to produce an audit. Once that had been completed, they requested additional data to complete the audit.
 
 
 ## Election Audit
@@ -50,7 +50,7 @@ Since the original audit output was a success, the election commission requested
 
 As with the original analysis, this was printed to the terminal and saved to a separate text file for review:
 
-[Image of completed audit output](analysis/completedaudit.png)
+![Image of completed audit output](analysis/completedaudit.png)
 
 
 ## Summary of the Audit
