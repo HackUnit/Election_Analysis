@@ -21,7 +21,8 @@ Utilizing `for` and `if` statements, a single page audit was constructed to disp
 
     - The total votes were calculated to: 369,711. This was saved to a file and printed to the terminal.
 
-    - To make clear of the data, the list of candidates was printed with each candidate’s total votes received and the percentage of votes each candidate won printed beside the candidate’s name.
+    - To make clear of the data, the list of candidates was printed with each candidate’s total votes received,
+    and the percentage of votes each candidate won printed beside the candidate’s name.
     The output:
 
     Charles Casper Stockham: 23.0% (85,213)
